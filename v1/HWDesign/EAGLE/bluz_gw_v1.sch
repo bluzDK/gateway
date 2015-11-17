@@ -3136,7 +3136,7 @@ at 22/03/2012 14:49:13</description>
 <text x="195.58" y="7.62" size="5.08" layer="94">Eric Ely</text>
 <text x="195.58" y="17.78" size="3.81" layer="94">Bluz Gateway</text>
 <text x="190.246" y="1.27" size="2.54" layer="94">September 2, 2015</text>
-<text x="269.24" y="7.112" size="3.81" layer="94">A</text>
+<text x="269.24" y="7.112" size="3.81" layer="94">B</text>
 <text x="220.98" y="45.72" size="3.048" layer="95">SPI Flash</text>
 <text x="99.06" y="187.96" size="3.048" layer="95">RGB LED</text>
 </plain>
